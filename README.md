@@ -30,11 +30,13 @@ Developer Productivity and Libraries:
 
 <img src="Alloy%20-%20Launcher%20and%20Automator/ipad-pro-12-9-2.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;">
 
-"Alloy - launcher and automator" is all about automating your day-to-day activities. Whether you just need to launch an
-app or automate your workflow - Alloy makes it simple and handy with just one click. So, if you need to post today's
-photos with added watermark to Facebook, send a canned message to someone, save and track your parking place and time,
-automate Siri, use AI to work with texts and pictures etc. - just create corresponding Actions and use them again
-and again. With Alloy, you can:
+"Alloy - launcher and automator" is an iOS app that provides an ability to launch your favorite apps and workflows. It 
+is available on Apple App Store: https://apps.apple.com/us/app/alloy-launcher-and-automator/id958643467?ign-mpt=uo%3D4
+
+"Alloy - launcher and automator" is all about automating your day-to-day activities. Whether you just need to launch an app or automate your workflow -
+Alloy makes it simple and handy with just one click. So, if you need to post today's photos with added watermark to
+Facebook, send a canned message to someone, save and track your parking place and time, automate Siri, use AI to work
+with texts and pictures etc. - just create corresponding Actions and use them again and again. With Alloy, you can:
 
 - Make small apps rather than workflows
 - Perform some workflows in background
