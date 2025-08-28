@@ -219,6 +219,8 @@ performance!
 
 ## Java Class Extension Library
 
+<img src="img/java-class-extension-library.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;">
+
 Java Class Extension Library - powerful library that emulates class extensions (categories) in Java. In addition, it
 supports interfaces and object composition, interface adoption, object unions and aspects.
 
@@ -233,7 +235,8 @@ Class extensions (categories) are beneficial because they:
 
 These benefits lead to more flexible, maintainable, and efficient code structures. Unfortunately, Java does not natively
 support class extensions (categories) and there is a little chance such support is going to be introduced in the near
-future. Java Class Extension library provides a valuable alternative for native class extensions with just a little more verbose code and little more complex implementation.
+future. Java Class Extension library provides a valuable alternative for native class extensions with just a little more
+verbose code and little more complex implementation.
 
 The library supports the following approaches for creating of class extensions:
 
@@ -248,6 +251,8 @@ extension interface. Once obtained, these extensions unlock additional functiona
 Available at GitHub: https://github.com/gregory-ledenev/java-class-extension
 
 ## EasyRouting for Vert.x
+
+<img src="img/easyrouting-for-vertx.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;">
 
 EasyRouting is a lightweight, annotation-driven HTTP routing library designed to build Vert.x web applications. It
 simplifies web development by letting you define routes with Java annotations—no need to manage complex request or
