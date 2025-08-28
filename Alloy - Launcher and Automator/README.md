@@ -74,42 +74,42 @@ statistics. You can even use Siri Shortcuts to launch Actions by voice.
 
 Screenshots:
 
-![alloy-launcher-1.png](img/alloy-launcher-1.png)
+<img src="img/alloy-launcher-1.png" width="320"/>
 
-![alloy-launcher-2.png](img/alloy-launcher-2.png)
+<img src="img/alloy-launcher-2.png" width="320"/>
 
-![alloy-launcher-3.png](img/alloy-launcher-3.png)
+<img src="img/alloy-launcher-3.png" width="320"/>
 
-![alloy-launcher-4.png](img/alloy-launcher-4.png)
+<img src="img/alloy-launcher-4.png" width="320"/>
 
-![alloy-launcher-5.png](img/alloy-launcher-5.png)
+<img src="img/alloy-launcher-5.png" width="320"/>
 
-![alloy-launcher-6.png](img/alloy-launcher-6.png)
+<img src="img/alloy-launcher-6.png" width="320"/>
+d
+<img src="img/alloy-launcher-7.png" width="320"/>
 
-![alloy-launcher-7.png](img/alloy-launcher-7.png)
+<img src="img/alloy-launcher-8.png" width="320"/>
 
-![alloy-launcher-8.png](img/alloy-launcher-8.png)
+<img src="img/alloy-launcher-9.png" width="320"/>
 
-![alloy-launcher-9.png](img/alloy-launcher-9.png)
+<img src="img/alloy-launcher-10.png" width="320"/>
 
-![alloy-launcher-10.png](img/alloy-launcher-10.png)
+<img src="img/ipad-pro-12-9-1.png" width="400"/>
 
-![ipad-pro-12-9-1.png](img/ipad-pro-12-9-1.png)
+<img src="img/ipad-pro-12-9-2.png" width="400"/>
 
-![ipad-pro-12-9-2.png](img/ipad-pro-12-9-2.png)
+<img src="img/ipad-pro-12-9-3.png" width="400"/>
 
-![ipad-pro-12-9-3.png](img/ipad-pro-12-9-3.png)
+<img src="img/ipad-pro-12-9-4.png" width="400"/>
 
-![ipad-pro-12-9-4.png](img/ipad-pro-12-9-4.png)
+<img src="img/ipad-pro-12-9-5.png" width="400"/>
 
-![ipad-pro-12-9-5.png](img/ipad-pro-12-9-5.png)
+<img src="img/ipad-pro-12-9-6.png" width="400"/>
 
-![ipad-pro-12-9-6.png](img/ipad-pro-12-9-6.png)
+<img src="img/ipad-pro-12-9-7.png" width="400"/>
 
-![ipad-pro-12-9-7.png](img/ipad-pro-12-9-7.png)
+<img src="img/ipad-pro-12-9-8.png" width="400"/>
 
-![ipad-pro-12-9-8.png](img/ipad-pro-12-9-8.png)
+<img src="img/ipad-pro-12-9-9.png" width="400"/>
 
-![ipad-pro-12-9-9.png](img/ipad-pro-12-9-9.png)
-
-![ipad-pro-12-9-10.png](img/ipad-pro-12-9-10.png)
+<img src="img/ipad-pro-12-9-10.png" width="400"/>
