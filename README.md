@@ -24,7 +24,7 @@ Embedded, Desktop and Server:
 Developer Productivity and Libraries:
 - [Productivity! For JBuilder](#productivity-for-jbuilder)
 - [Java Class Extension Library](#java-class-extension-library)
-- [EasyRouting for Vert.x](#easyrouting-for-vert.x)
+- [EasyRouting for Vert.x](#easyrouting-for-vertx)
 
 ## Alloy - Launcher and Automator
 
