@@ -65,3 +65,22 @@ Provides advanced functionality for license generation, maintenance, and license
 
 Provides an ability to distribute licenses on-demand and track their concurrent use according to the Named or Floating User
 Licensing Models.
+
+## Screenshots:
+
+![Control Center 1.png](img/Control%20Center%201.png)
+![Control Center 2.png](img/Control%20Center%202.png)
+![Control Center 3.png](img/Control%20Center%203.png)
+![Control Center 4.png](img/Control%20Center%204.png)
+![Management Console 1.png](img/Management%20Console%201.png)
+![Management Console 2.png](img/Management%20Console%202.png)
+![Management Console 3.png](img/Management%20Console%203.png)
+![Management Console 4.png](img/Management%20Console%204.png)
+![Management Console 5.png](img/Management%20Console%205.png)
+![Management Console 6.png](img/Management%20Console%206.png)
+![Management Console 7.png](img/Management%20Console%207.png)
+![Management Console 8.png](img/Management%20Console%208.png)
+![Management Console 9.png](img/Management%20Console%209.png)
+![Management Console 10.png](img/Management%20Console%2010.png)
+![Management Console 11.png](img/Management%20Console%2011.png)
+![Management Console 12.png](img/Management%20Console%2012.png)

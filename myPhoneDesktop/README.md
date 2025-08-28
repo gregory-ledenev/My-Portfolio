@@ -12,7 +12,7 @@ GitHub: https://github.com/gregory-ledenev
 
 ## myPhoneDesktop
 
-<img src="../myPhoneDesktop/myphonedesktop-call-any-telephone-number-phone.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
+<img src="img/myphonedesktop-call-any-telephone-number-phone.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
 myPhoneDesktop provides an easy and effective way to work with your iPad, iPhone or iPod touch directly from your
 desktop. Whether you need to make a phone call, send a long SMS, copy a large amount of text, send a long and
@@ -30,3 +30,19 @@ Select it and click the "Send to myPhoneDesktop" Bookmarklet then check your iPh
 
 Business users would appreciate seamless integration with SalesForce, which provides an ability to Call and SMS to Leads,
 Accounts and Contacts using iPhone.
+
+## Screenshots:
+
+<img src="img/myPhoneDesktop.png" style="width:400px;"/>
+
+<img src="img/myphonedesktop-call-any-telephone-number-phone.jpg" style="width:400px;"/>
+
+<img src="img/myphonedesktop-open-url-on-iphone.jpg" style="width:400px;"/>
+
+<img src="img/myphonedesktop-bring-notes-or-any-text-on-iphone.jpg" style="width:400px;"/>
+
+<img src="img/myphonedesktop-save-photos-to-ipad-or-iphone.jpg" style="width:400px;"/>
+
+<img src="img/myphonedesktop-simplify-sending-sms-on-iphone.jpg" style="width:400px;"/>
+
+<img src="img/myphonedesktop-tray-window-drag-drop-send.jpg" style="width:400px;"/>

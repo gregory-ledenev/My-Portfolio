@@ -12,7 +12,7 @@ GitHub: https://github.com/gregory-ledenev
 
 ## InstaTodo
 
-<img src="../InstaTodo/collage.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
+<img src="img/collage.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
 InstaTodo - the only ToDo app with templates. Templates make InstaTodo special! InstaTodo adds customized Templates to
 sophisticated to-do list to save time and make life easier. Reusable Templates help you easily create task or to-do list
@@ -38,3 +38,19 @@ schedule an annual car maintenance, InstaTodo can initiate a call when you try t
 - Option to execute desired Action upon task completion
 - Actions to contact people like “SMS Contact” or “Email Contact”
 - Actions to gather some data like “Make a Note” or “Take a Photo”
+
+## Screenshots:
+
+<img src="img/folders.jpg" width="320px"/>
+
+<img src="img/InstaTodo.png" width="320px"/>
+
+<img src="img/lists.jpg" width="320px"/>
+
+<img src="img/map.jpg" width="320px"/>
+
+<img src="img/projects.jpg" width="320px"/>
+
+<img src="img/task.jpg" width="320px"/>
+
+<img src="img/templates.jpg" width="320px"/>

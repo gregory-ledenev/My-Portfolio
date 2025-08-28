@@ -145,7 +145,7 @@ Licensing Models.
 
 ## myPhoneDesktop
 
-<img src="myPhoneDesktop/myphonedesktop-call-any-telephone-number-phone.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
+<img src="myPhoneDesktop/img/myphonedesktop-call-any-telephone-number-phone.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
 myPhoneDesktop provides an easy and effective way to work with your iPad, iPhone or iPod touch directly from your
 desktop. Whether you need to make a phone call, send a long SMS, copy a large amount of text, send a long and
@@ -166,7 +166,7 @@ Accounts and Contacts using iPhone.
 
 ## InstaTodo
 
-<img src="InstaTodo/collage.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
+<img src="InstaTodo/img/collage.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
 InstaTodo - the only ToDo app with templates. Templates make InstaTodo special! InstaTodo adds customized Templates to
 sophisticated to-do list to save time and make life easier. Reusable Templates help you easily create task or to-do list
@@ -195,7 +195,7 @@ schedule an annual car maintenance, InstaTodo can initiate a call when you try t
 
 ## Productivity! For JBuilder
 
-<img src="Productivity%20for%20JBuilder/advanced_todo.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
+<img src="Productivity for JBuilder/img/advanced_todo.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
 Productivity! is a genuine and rich set of tools intended to greatly simplify routine coding and navigation operations.
 As a result, it allows significantly greater development productivity. All Productivity! tools are carefully designed

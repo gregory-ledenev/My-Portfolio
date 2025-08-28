@@ -12,7 +12,7 @@ GitHub: https://github.com/gregory-ledenev
 
 ## Productivity! For JBuilder
 
-<img src="../Productivity%20for%20JBuilder/advanced_todo.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
+<img src="img/advanced_todo.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
 Productivity! is a genuine and rich set of tools intended to greatly simplify routine coding and navigation operations.
 As a result, it allows significantly greater development productivity. All Productivity! tools are carefully designed
@@ -35,3 +35,35 @@ With Productivity! tools:
 - Use your own unique naming standards!
 - And finally, forget that you are using Productivity! - just enjoy your favorite IDE, interesting work and your superior
   performance!
+
+## Screenshots:
+
+<img src="img/advanced_todo.jpg" width="600px"/>
+
+<img src="img/advanced_todo.png" width="600px"/>
+
+<img src="img/clipboard_insight.png" width="600px"/>
+
+<img src="img/code_assistant.png" width="600px"/>
+
+<img src="img/help_insight.png" width="600px"/>
+
+<img src="img/highlight_local_references.png" width="600px"/>
+
+<img src="img/hyperlinks_navigate.png" width="600px"/>
+
+<img src="img/member_insight_help_insight.png" width="600px"/>
+
+<img src="img/persistent_bookmarks.png" width="600px"/>
+
+<img src="img/rename_assistant.png" width="600px"/>
+
+<img src="img/smart_gutter.png" width="600px"/>
+
+<img src="img/smart_java_doc.png" width="600px"/>
+
+<img src="img/task_list.png" width="600px"/>
+
+<img src="img/task_list_fix.png" width="600px"/>
+
+<img src="img/uml_thumbnail.png" width="600px"/>

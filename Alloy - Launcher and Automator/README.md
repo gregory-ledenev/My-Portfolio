@@ -72,7 +72,7 @@ Alloy eliminates the need to browse through several pages full of apps to find a
 Favorites provide you just with the right set of necessary apps and actions based on your habits, location, and usage
 statistics. You can even use Siri Shortcuts to launch Actions by voice.
 
-Screenshots:
+## Screenshots:
 
 <img src="img/alloy-launcher-1.png" width="320"/>
 
