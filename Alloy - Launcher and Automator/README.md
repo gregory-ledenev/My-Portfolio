@@ -12,7 +12,7 @@ GitHub: https://github.com/gregory-ledenev
 
 ## Alloy - Launcher and Automator
 
-<img src="../Alloy%20-%20Launcher%20and%20Automator/ipad-pro-12-9-2.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;">
+<img src="img/ipad-pro-12-9-2.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;">
 
 "Alloy - launcher and automator" is an iOS app that provides an ability to launch your favorite apps and workflows. It
 is available on Apple App Store: https://apps.apple.com/us/app/alloy-launcher-and-automator/id958643467?ign-mpt=uo%3D4
@@ -74,42 +74,42 @@ statistics. You can even use Siri Shortcuts to launch Actions by voice.
 
 Screenshots:
 
-![alloy-launcher-1.png](alloy-launcher-1.png)
+![alloy-launcher-1.png](img/alloy-launcher-1.png)
 
-![alloy-launcher-2.png](alloy-launcher-2.png)
+![alloy-launcher-2.png](img/alloy-launcher-2.png)
 
-![alloy-launcher-3.png](alloy-launcher-3.png)
+![alloy-launcher-3.png](img/alloy-launcher-3.png)
 
-![alloy-launcher-4.png](alloy-launcher-4.png)
+![alloy-launcher-4.png](img/alloy-launcher-4.png)
 
-![alloy-launcher-5.png](alloy-launcher-5.png)
+![alloy-launcher-5.png](img/alloy-launcher-5.png)
 
-![alloy-launcher-6.png](alloy-launcher-6.png)
+![alloy-launcher-6.png](img/alloy-launcher-6.png)
 
-![alloy-launcher-7.png](alloy-launcher-7.png)
+![alloy-launcher-7.png](img/alloy-launcher-7.png)
 
-![alloy-launcher-8.png](alloy-launcher-8.png)
+![alloy-launcher-8.png](img/alloy-launcher-8.png)
 
-![alloy-launcher-9.png](alloy-launcher-9.png)
+![alloy-launcher-9.png](img/alloy-launcher-9.png)
 
-![alloy-launcher-10.png](alloy-launcher-10.png)
+![alloy-launcher-10.png](img/alloy-launcher-10.png)
 
-![ipad-pro-12-9-1.png](ipad-pro-12-9-1.png)
+![ipad-pro-12-9-1.png](img/ipad-pro-12-9-1.png)
 
-![ipad-pro-12-9-2.png](ipad-pro-12-9-2.png)
+![ipad-pro-12-9-2.png](img/ipad-pro-12-9-2.png)
 
-![ipad-pro-12-9-3.png](ipad-pro-12-9-3.png)
+![ipad-pro-12-9-3.png](img/ipad-pro-12-9-3.png)
 
-![ipad-pro-12-9-4.png](ipad-pro-12-9-4.png)
+![ipad-pro-12-9-4.png](img/ipad-pro-12-9-4.png)
 
-![ipad-pro-12-9-5.png](ipad-pro-12-9-5.png)
+![ipad-pro-12-9-5.png](img/ipad-pro-12-9-5.png)
 
-![ipad-pro-12-9-6.png](ipad-pro-12-9-6.png)
+![ipad-pro-12-9-6.png](img/ipad-pro-12-9-6.png)
 
-![ipad-pro-12-9-7.png](ipad-pro-12-9-7.png)
+![ipad-pro-12-9-7.png](img/ipad-pro-12-9-7.png)
 
-![ipad-pro-12-9-8.png](ipad-pro-12-9-8.png)
+![ipad-pro-12-9-8.png](img/ipad-pro-12-9-8.png)
 
-![ipad-pro-12-9-9.png](ipad-pro-12-9-9.png)
+![ipad-pro-12-9-9.png](img/ipad-pro-12-9-9.png)
 
-![ipad-pro-12-9-10.png](ipad-pro-12-9-10.png)
+![ipad-pro-12-9-10.png](img/ipad-pro-12-9-10.png)

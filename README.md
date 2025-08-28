@@ -28,7 +28,7 @@ Developer Productivity and Libraries:
 
 ## Alloy - Launcher and Automator
 
-<img src="Alloy%20-%20Launcher%20and%20Automator/ipad-pro-12-9-2.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;">
+<img src="Alloy - Launcher and Automator/img/ipad-pro-12-9-2.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;">
 
 "Alloy - launcher and automator" is an iOS app that provides an ability to launch your favorite apps and workflows. It 
 is available on Apple App Store: https://apps.apple.com/us/app/alloy-launcher-and-automator/id958643467?ign-mpt=uo%3D4
