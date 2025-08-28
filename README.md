@@ -32,9 +32,9 @@ Developer Productivity and Libraries:
 
 "Alloy - launcher and automator" is all about automating your day-to-day activities. Whether you just need to launch an
 app or automate your workflow - Alloy makes it simple and handy with just one click. So, if you need to post today's
-photos with added watermark to Facebook, send canned message to someone, save and track your parking place and time,
-automate Siri, utilize AI to work with texts and pictures etc. - just create corresponding Actions and use them again
-and again. With Alloy you can:
+photos with added watermark to Facebook, send a canned message to someone, save and track your parking place and time,
+automate Siri, use AI to work with texts and pictures etc. - just create corresponding Actions and use them again
+and again. With Alloy, you can:
 
 - Make small apps rather than workflows
 - Perform some workflows in background
@@ -46,22 +46,22 @@ and again. With Alloy you can:
 - Launch your actions right form iMessage and share results with your contacts
 - Associate reminders with actions
 - Create Lists from templates on schedule or location change
-- Debug your actions using breakpoints, inspectors, logs etc.
+- Debug your actions using breakpoints, inspectors, logs, etc.
 - And much more!
 
 "Alloy - launcher and automator" is suitable for any user. No matter who you are, a newbie, or an experienced user, you
-will find Alloy handy and fun to play with. Newbies can easily make simple Actions in minutes just by defining simple
+will find Alloy handy and fun to play with. Newbies can easily make simple Actions in minutes just by defining a basic 
 workflow combining several tasks together. Experienced users can build more sophisticated Actions using loops,
-conditional operators, Web Services, workflow calls etc.
+conditional operators, Web Services, workflow calls, etc.
 
 "Alloy - launcher and automator" is wherever you need it. You can make Siri Shortcuts for any Alloy's Actions and then
 launch those Actions from Siri by speaking certain phrases. It is even possible to make Siri Shortcuts that run in
-background without leaving Siri... You can use Alloy right from Messages to share Action's result (e.g tip calculation)
-with friends. Or you can use Alloy's Widget in the Notification Center to get quick access to the Favorite Actions etc.
+background without leaving Siri... You can use Alloy right from Messages to share Action's result (e.g., tip calculation)
+with friends. Or you can use Alloy's Widget in the Notification Center to get quick access to the Favorite Actions, etc.
 
 "Alloy - launcher and automator" combines the best of two worlds:
 Advanced launcher with dynamic favorites based on your habits, location, and usage statistics.
-Sophisticated workflow engine, which allows to build Actions utilizing REST Web Services, system and Cloud services,
+Sophisticated workflow engine, which allows building Actions using REST Web Services, system and Cloud services,
 installed apps, etc.
 
 Sample Actions that Alloy can do with just one click are:
@@ -70,20 +70,20 @@ Sample Actions that Alloy can do with just one click are:
 - calculate a tip
 - send group SMS and email
 - send canned SMS to someone
-- save parking place and setup a reminder to leave
+- save parking place and set up a reminder to leave
 - find the best pizza place around on Yelp
 - upload new photos to Dropbox and send links of them by email
 - convert EUR to USD using Convertible
-- navigate to certain location using Google Map
+- navigate to a certain location using Google Map
 - etc.
 
-You can either use ready-to-use Actions from built-in Action Directory or build your own Actions using simple yet
+You can either use ready-to-use Actions from built-in Action Directory or build your own Actions using a simple yet
 powerful Action Editor. Alloy allows you to create custom Actions that will meet your specific needs and desires. You
 can customize Action's workflows, background, layout, colors, folders, and so much more! If you are ready to create your
 first customized Action, take a look at our “Alloy Getting Started Guide” or ask our Support Team.
 
 Alloy eliminates the need to browse through several pages full of apps to find an app or Action to launch - dynamic
-Favorites provide you just with the right set of needed apps and actions based on your habits, location, and usage
+Favorites provide you just with the right set of necessary apps and actions based on your habits, location, and usage
 statistics. You can even use Siri Shortcuts to launch Actions by voice.
 
 ## Protection! Licensing Toolkit
@@ -92,9 +92,8 @@ statistics. You can even use Siri Shortcuts to launch Actions by voice.
 
 Protection! - is a powerful multi-platform Licensing Toolkit and License Manager that provides the ability to add
 licensing into custom applications or components only allowing the permitted use according to the supplied license.
-Protection! uses high encryption technology and provides easy integration for software developers even for cross
-platform products while being non-invasive for end users. Protection! License Manager offers a versatile solution for
-any licensing model. Protection! Is adopted and appreciated by Fortune 500 companies including GM, LG, Siemens, General
+Protection! uses high encryption technology and provides easy integration for software developers even for cross-platform products while being non-invasive for end users. Protection! License Manager offers a versatile solution for
+any licensing model. Protection! is adopted and appreciated by Fortune 500 companies including GM, LG, Siemens, General
 Dynamics and Lockheed Martin and others.
 
 Protection! allows software vendors, publishers and developers to:
@@ -103,7 +102,7 @@ Protection! allows software vendors, publishers and developers to:
 - Provide users with the trial versions of their products.
 - Significantly minimize or completely reduce unauthorized use of their applications and therefore dramatically increase
   company revenue.
-- Increase revenue streams by implementing various licensing models while maintaining single code base and therefore
+- Increase revenue streams by implementing various licensing models while maintaining a single code base and therefore
   offering higher flexibility to their customers.
 - Track concurrent license usage and manage their customer base.
 
@@ -111,7 +110,7 @@ Protection! allows software vendors, publishers and developers to:
 
 With the help of Protection! Licensing Toolkit and License Manager software publishers and developers are able to:
 
-- Easily and economically increase scalability of their applications.
+- Easily and economically increase the scalability of their applications.
 - Have full control over all aspects of licensing and tracking.
 - Enable additional revenue generation models.
 - Quickly and easily adapt Protection! to any business model.
@@ -126,7 +125,7 @@ Protection! Licensing Toolkit contains the following products:
 ### Protection Developer
 
 Provides a framework to add licensing support into applications; ability to develop custom backend implementations as
-well as basic licenses generation functionality.
+well as basic license generation functionality.
 
 ### Protection Enterprise
 
@@ -135,11 +134,11 @@ processes together with management of licenses, customers, and evaluators.
 
 ### Protection Sales
 
-Provides advanced functionality for license generation, maintenance and license delivery.
+Provides advanced functionality for license generation, maintenance, and license delivery.
 
 ### Protection Licensing Server
 
-Provides ability to distribute licenses on-demand and track their concurrent use according to the Named or Floating User
+Provides an ability to distribute licenses on-demand and track their concurrent use according to the Named or Floating User
 Licensing Models.
 
 ## myPhoneDesktop
@@ -151,25 +150,26 @@ desktop. Whether you need to make a phone call, send a long SMS, copy a large am
 complicated to retype URL, open route in mobile Google Map, or store an image on your iPad or iPhone, myPhoneDesktop
 greatly streamlines your workflow.
 
-Use Desktop client which tightly integrates with your OS (Windows, Mac OSX or Linux) and provides such handy features
+Use Desktop client, which tightly integrates with your OS (Windows, Mac OS or Linux) and provides such handy features
 like Drag & Drop, global shortcuts like Cmd+C+C and plugin's to popular applications like LaunchBar or Apple Address
 Book.
 
-If you are on-the-go or not at your own computer (Hotel, Internet Cafe or Local Library), you can use convenient and
+If you are on-the-go or not at your own computer (Hotel, Internet Cafe or Local Library), you can use a convenient and
 full-featured myPhoneDesktop Web Client that works in numerous browsers. You can also use myPhoneDesktop Bookmarklet and
-send any content from any Webpage to your iPhone/iPod touch with ease! See something you like while browsing Web? Select
-it and click the "Send to myPhoneDesktop" Bookmarklet then check your iPhone to receive selected content.
+send any content from any Webpage to your iPhone/iPod touch with ease! See something you like while browsing the Web? 
+Select it and click the "Send to myPhoneDesktop" Bookmarklet then check your iPhone to receive selected content.
 
-Business users would appreciate seamless integration with SalesForce, which provides ability to Call and SMS to Leads,
+Business users would appreciate seamless integration with SalesForce, which provides an ability to Call and SMS to Leads,
 Accounts and Contacts using iPhone.
 
 ## InstaTodo
 
 <img src="InstaTodo/collage.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
-InstaTodo - the only ToDo app with templates. Templates make InstaTodo special! InstaTodo adds customized Template to
+InstaTodo - the only ToDo app with templates. Templates make InstaTodo special! InstaTodo adds customized Templates to
 sophisticated to-do list to save time and make life easier. Reusable Templates help you easily create task or to-do list
 knowing that no critical steps have been forgotten.
+
 There’s no need to reinvent the wheel each time you pack a suitcase for a business trip, or go to the grocery store to
 buy supplies for your annual family BBQ.
 
@@ -179,17 +179,17 @@ Location" smart list to view distribution of your to-do tasks by location or vis
 To simplify making to-do lists - use myPhoneDesktop application to create a to-do lists directly from your Desktop or
 Web Browser.
 
-Break big projects into small and manageable tasks. Use InstaTodo to create single task or complex hierarchical
+Break big projects into small and manageable tasks. Use InstaTodo to create a single task or complex hierarchical
 Checklist. Specify priority, date and other tasks’ attributes. Organize your tasks and improve your productivity.
 
 Collaborate by sharing tasks with family, friends or colleagues. Send a single task or complex hierarchical checklist
 via e-mail or SMS in a single tap. Sync your tasks with Toodledo.
 
-Sometimes upon task completion some action should take place. For instance, if you have a "Call Mechanic" task to
+Sometimes upon task completion, some action should take place. For instance, if you have a "Call Mechanic" task to
 schedule an annual car maintenance, InstaTodo can initiate a call when you try to complete this task.
-Option to execute desired Action upon task completion
-Actions to contact people like “SMS Contact” or “Email Contact”
-Actions to gather some data like “Make a Note” or “Take a Photo”
+- Option to execute desired Action upon task completion
+- Actions to contact people like “SMS Contact” or “Email Contact”
+- Actions to gather some data like “Make a Note” or “Take a Photo”
 
 ## Productivity! For JBuilder
 
@@ -219,8 +219,8 @@ performance!
 
 ## Java Class Extension Library
 
-Java Class Extension Library - powerful library that emulates class extensions (categories) in Java. In addition it
-supports interfaces and objects composition, interfaces adoption, object unions and aspects.
+Java Class Extension Library - powerful library that emulates class extensions (categories) in Java. In addition, it
+supports interfaces and object composition, interface adoption, object unions and aspects.
 
 Class extensions (categories) are beneficial because they:
 - Improve code organization by separating core data structures from specialized functionality.
@@ -237,10 +237,13 @@ future. Java Class Extension library provides a valuable alternative for native 
 
 The library supports the following approaches for creating of class extensions:
 
-- **Static Class Extensions**: define and implement extensions as usual Java classes and then utilize the Java Class Extension library to find matching extensions.
-- **Dynamic Class Extensions**: utilize the Java Class Extension library to define extensions by composing them as sets of lambda operations and let the library create extensions dynamically on the fly.
+- **Static Class Extensions**: define and implement extensions as usual Java classes and then use the Java Class
+  Extension library to find matching extensions.
+- **Dynamic Class Extensions**: utilize the Java Class Extension library to define extensions by composing them as sets
+  of lambda operations and let the library create extensions dynamically on the fly.
 
-Both approaches leverage the ClassExtension interface, which facilitates querying for an extension based on an object's extension interface. Once obtained, these extensions unlock additional functionality with remarkable ease.
+Both approaches leverage the ClassExtension interface, which facilitates querying for an extension based on an object's
+extension interface. Once obtained, these extensions unlock additional functionality with remarkable ease.
 
 Available at GitHub: https://github.com/gregory-ledenev/java-class-extension
 
