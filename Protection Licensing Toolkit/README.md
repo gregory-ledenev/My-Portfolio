@@ -1,4 +1,4 @@
-# Portfolio Overview | Productivity! for JBuilder
+# Portfolio Overview | Protection! Licensing Toolkit
 
 **Grygoriy Ledenyov**
 
@@ -13,7 +13,7 @@ GitHub: https://github.com/gregory-ledenev
 
 ## Protection! Licensing Toolkit
 
-<img src="../Protection%20Licensing%20Toolkit/Control%20Center%201.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
+<img src="img/Control%20Center%201.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
 Protection! - is a powerful multi-platform Licensing Toolkit and License Manager that provides the ability to add
 licensing into custom applications or components only allowing the permitted use according to the supplied license.
