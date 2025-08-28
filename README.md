@@ -88,6 +88,8 @@ Alloy eliminates the need to browse through several pages full of apps to find a
 Favorites provide you just with the right set of necessary apps and actions based on your habits, location, and usage
 statistics. You can even use Siri Shortcuts to launch Actions by voice.
 
+See: [More Information and Screenshots](Alloy%20-%20Launcher%20and%20Automator/README.md)
+
 ## Protection! Licensing Toolkit
 
 <img src="Protection%20Licensing%20Toolkit/img/Control%20Center%201.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
@@ -143,6 +145,8 @@ Provides advanced functionality for license generation, maintenance, and license
 Provides an ability to distribute licenses on-demand and track their concurrent use according to the Named or Floating User
 Licensing Models.
 
+See: [More Information and Screenshots](Protection%20Licensing%20Toolkit/README.md)
+
 ## myPhoneDesktop
 
 <img src="myPhoneDesktop/img/myphonedesktop-call-any-telephone-number-phone.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
@@ -163,6 +167,8 @@ Select it and click the "Send to myPhoneDesktop" Bookmarklet then check your iPh
 
 Business users would appreciate seamless integration with SalesForce, which provides an ability to Call and SMS to Leads,
 Accounts and Contacts using iPhone.
+
+See: [More Information and Screenshots](myPhoneDesktop/README.md)
 
 ## InstaTodo
 
@@ -193,6 +199,8 @@ schedule an annual car maintenance, InstaTodo can initiate a call when you try t
 - Actions to contact people like “SMS Contact” or “Email Contact”
 - Actions to gather some data like “Make a Note” or “Take a Photo”
 
+See: [More Information and Screenshots](InstaTodo/README.md)
+
 ## Productivity! For JBuilder
 
 <img src="Productivity for JBuilder/img/advanced_todo.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
@@ -218,6 +226,8 @@ With Productivity! tools:
 - Use your own unique naming standards!
 - And finally, forget that you are using Productivity! - just enjoy your favorite IDE, interesting work and your superior
 performance!
+
+See: [More Information and Screenshots](Productivity%20for%20JBuilder/README.md)
 
 ## Java Class Extension Library
 

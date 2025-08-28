@@ -36,6 +36,9 @@ With Productivity! tools:
 - And finally, forget that you are using Productivity! - just enjoy your favorite IDE, interesting work and your superior
   performance!
 
+## Documents and Guides
+- [User Guide](UserGuide.pdf)
+
 ## Screenshots:
 
 <img src="img/advanced_todo.jpg" width="600px"/>

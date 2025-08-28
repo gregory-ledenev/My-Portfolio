@@ -66,7 +66,13 @@ Provides advanced functionality for license generation, maintenance, and license
 Provides an ability to distribute licenses on-demand and track their concurrent use according to the Named or Floating User
 Licensing Models.
 
-## Screenshots:
+## Documents and Guides
+- [Protection Developers Guide](Protection_Developers_Guide.pdf)
+- [Protection Enterprise Administrator Guide](ProtectionEnt_Administrator_Guide.pdf)
+- [Protection Licensing Server Administrator Guide](ProtectionLS_Administrator_Guide.pdf)
+- [Protection Connect Administrator Guide](Protection_Connect_Administrator_Guide.pdf)
+
+## Screenshots
 
 ![Control Center 1.png](img/Control%20Center%201.png)
 ![Control Center 2.png](img/Control%20Center%202.png)
