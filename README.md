@@ -19,10 +19,10 @@ iOS Apps:
 - [InstaToDo](#instatodo)
 
 Embedded, Desktop and Server:
-- [Protection! Licensing Toolkit](#protection!-licensing-toolkit)
+- [Protection! Licensing Toolkit](#protection-licensing-toolkit)
 
 Developer Productivity and Libraries:
-- [Productivity! For JBuilder](#productivity!-for-jbuilder)
+- [Productivity! For JBuilder](#productivity-for-jbuilder)
 - [Java Class Extension Library](#java-class-extension-library)
 - [EasyRouting for Vert.x](#easyrouting-for-vert.x)
 
