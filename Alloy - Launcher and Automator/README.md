@@ -71,3 +71,45 @@ first customized Action, take a look at our “Alloy Getting Started Guide” or
 Alloy eliminates the need to browse through several pages full of apps to find an app or Action to launch - dynamic
 Favorites provide you just with the right set of necessary apps and actions based on your habits, location, and usage
 statistics. You can even use Siri Shortcuts to launch Actions by voice.
+
+Screenshots:
+
+![alloy-launcher-1.png](alloy-launcher-1.png)
+
+![alloy-launcher-2.png](alloy-launcher-2.png)
+
+![alloy-launcher-3.png](alloy-launcher-3.png)
+
+![alloy-launcher-4.png](alloy-launcher-4.png)
+
+![alloy-launcher-5.png](alloy-launcher-5.png)
+
+![alloy-launcher-6.png](alloy-launcher-6.png)
+
+![alloy-launcher-7.png](alloy-launcher-7.png)
+
+![alloy-launcher-8.png](alloy-launcher-8.png)
+
+![alloy-launcher-9.png](alloy-launcher-9.png)
+
+![alloy-launcher-10.png](alloy-launcher-10.png)
+
+![ipad-pro-12-9-1.png](ipad-pro-12-9-1.png)
+
+![ipad-pro-12-9-2.png](ipad-pro-12-9-2.png)
+
+![ipad-pro-12-9-3.png](ipad-pro-12-9-3.png)
+
+![ipad-pro-12-9-4.png](ipad-pro-12-9-4.png)
+
+![ipad-pro-12-9-5.png](ipad-pro-12-9-5.png)
+
+![ipad-pro-12-9-6.png](ipad-pro-12-9-6.png)
+
+![ipad-pro-12-9-7.png](ipad-pro-12-9-7.png)
+
+![ipad-pro-12-9-8.png](ipad-pro-12-9-8.png)
+
+![ipad-pro-12-9-9.png](ipad-pro-12-9-9.png)
+
+![ipad-pro-12-9-10.png](ipad-pro-12-9-10.png)
