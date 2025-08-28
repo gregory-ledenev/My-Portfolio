@@ -28,6 +28,8 @@ Developer Productivity and Libraries:
 
 ## Alloy - Launcher and Automator
 
+<img src="Alloy%20-%20Launcher%20and%20Automator/ipad-pro-12-9-2.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;">
+
 "Alloy - launcher and automator" is all about automating your day-to-day activities. Whether you just need to launch an
 app or automate your workflow - Alloy makes it simple and handy with just one click. So, if you need to post today's
 photos with added watermark to Facebook, send canned message to someone, save and track your parking place and time,
@@ -86,6 +88,8 @@ statistics. You can even use Siri Shortcuts to launch Actions by voice.
 
 ## Protection! Licensing Toolkit
 
+<img src="Protection%20Licensing%20Toolkit/Control%20Center%201.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
+
 Protection! - is a powerful multi-platform Licensing Toolkit and License Manager that provides the ability to add
 licensing into custom applications or components only allowing the permitted use according to the supplied license.
 Protection! uses high encryption technology and provides easy integration for software developers even for cross
@@ -140,6 +144,8 @@ Licensing Models.
 
 ## myPhoneDesktop
 
+<img src="myPhoneDesktop/myphonedesktop-call-any-telephone-number-phone.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
+
 myPhoneDesktop provides an easy and effective way to work with your iPad, iPhone or iPod touch directly from your
 desktop. Whether you need to make a phone call, send a long SMS, copy a large amount of text, send a long and
 complicated to retype URL, open route in mobile Google Map, or store an image on your iPad or iPhone, myPhoneDesktop
@@ -158,6 +164,8 @@ Business users would appreciate seamless integration with SalesForce, which prov
 Accounts and Contacts using iPhone.
 
 ## InstaTodo
+
+<img src="InstaTodo/collage.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
 InstaTodo - the only ToDo app with templates. Templates make InstaTodo special! InstaTodo adds customized Template to
 sophisticated to-do list to save time and make life easier. Reusable Templates help you easily create task or to-do list
@@ -184,6 +192,8 @@ Actions to contact people like “SMS Contact” or “Email Contact”
 Actions to gather some data like “Make a Note” or “Take a Photo”
 
 ## Productivity! For JBuilder
+
+<img src="Productivity%20for%20JBuilder/advanced_todo.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 400px;"/>
 
 Productivity! is a genuine and rich set of tools intended to greatly simplify routine coding and navigation operations.
 As a result, it allows significantly greater development productivity. All Productivity! tools are carefully designed
@@ -213,17 +223,24 @@ Java Class Extension Library - powerful library that emulates class extensions (
 supports interfaces and objects composition, interfaces adoption, object unions and aspects.
 
 Class extensions (categories) are beneficial because they:
-Improve code organization by separating core data structures from specialized functionality.
-Enhance modularity, allowing domain-specific logic to be added without modifying original classes.
-Promote the Single Responsibility Principle by keeping data classes focused on data representation.
-Enable adding new features to existing types, including third-party or framework types.
-Facilitate better separation of concerns in complex applications.
-Improve code readability and maintainability.
-Allows adding aspects in addition to adding operations.
+- Improve code organization by separating core data structures from specialized functionality.
+- Enhance modularity, allowing domain-specific logic to be added without modifying original classes.
+- Promote the Single Responsibility Principle by keeping data classes focused on data representation.
+- Enable adding new features to existing types, including third-party or framework types.
+- Facilitate better separation of concerns in complex applications.
+- Improve code readability and maintainability.
+- Allows adding aspects in addition to adding operations.
 
 These benefits lead to more flexible, maintainable, and efficient code structures. Unfortunately, Java does not natively
 support class extensions (categories) and there is a little chance such support is going to be introduced in the near
-future.
+future. Java Class Extension library provides a valuable alternative for native class extensions with just a little more verbose code and little more complex implementation.
+
+The library supports the following approaches for creating of class extensions:
+
+- **Static Class Extensions**: define and implement extensions as usual Java classes and then utilize the Java Class Extension library to find matching extensions.
+- **Dynamic Class Extensions**: utilize the Java Class Extension library to define extensions by composing them as sets of lambda operations and let the library create extensions dynamically on the fly.
+
+Both approaches leverage the ClassExtension interface, which facilitates querying for an extension based on an object's extension interface. Once obtained, these extensions unlock additional functionality with remarkable ease.
 
 Available at GitHub: https://github.com/gregory-ledenev/java-class-extension
 
@@ -232,15 +249,17 @@ Available at GitHub: https://github.com/gregory-ledenev/java-class-extension
 EasyRouting is a lightweight, annotation-driven HTTP routing library designed to build Vert.x web applications. It
 simplifies web development by letting you define routes with Java annotations—no need to manage complex request or
 response objects.
+
 Inspired by JAX-RS and Spring Boot’s routing style, EasyRouting provides a focused, minimal solution without the
 heaviness of a full framework. It’s ideal for developers who want to build web apps quickly using just basic Java and
 HTTP knowledge.
+
 Key Highlights:
-Define routes and configuration using simple annotations on your Java methods.
-Automatic parameter binding and response handling.
-Use plain Java objects; no manual JSON serialization needed.
-Minimal setup; start by extending the Application class and calling start().
-Designed for easy learning with no need to learn Vert.x to get started.
+- Define routes and configuration using simple annotations on your Java methods.
+- Automatic parameter binding and response handling.
+- Use plain Java objects; no manual JSON serialization needed.
+- Minimal setup; start by extending the Application class and calling start().
+- Designed for easy learning with no need to learn Vert.x to get started.
 
 Get started in minutes and build clean, maintainable web apps with less boilerplate code.
 
