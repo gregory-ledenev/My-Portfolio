@@ -17,6 +17,8 @@ GitHub: https://github.com/gregory-ledenev
 "Alloy - launcher and automator" is an iOS app that provides an ability to launch your favorite apps and workflows. It
 is available on Apple App Store: https://apps.apple.com/us/app/alloy-launcher-and-automator/id958643467?ign-mpt=uo%3D4
 
+You can visit its channel to check video guides and presentations: https://www.youtube.com/channel/UCToh7NybbMqQy3SLmGEjZfA
+
 "Alloy - launcher and automator" is all about automating your day-to-day activities. Whether you just need to launch an app or automate your workflow -
 Alloy makes it simple and handy with just one click. So, if you need to post today's photos with added watermark to
 Facebook, send a canned message to someone, save and track your parking place and time, automate Siri, use AI to work
