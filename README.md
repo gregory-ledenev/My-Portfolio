@@ -25,6 +25,7 @@ Developer Productivity and Libraries:
 - [Productivity! For JBuilder](#productivity-for-jbuilder)
 - [Java Class Extension Library](#java-class-extension-library)
 - [EasyRouting for Vert.x](#easyrouting-for-vertx)
+- [EasyWorkflow for LangChain4j](#easyworkflow-for-langchain4j)
 
 ## Alloy - Launcher and Automator
 
@@ -230,6 +231,46 @@ With Productivity! tools:
 performance!
 
 See: [More Information and Screenshots](Productivity%20for%20JBuilder/README.md)
+
+## EasyWorkflow for LangChain4j
+
+<img src="img/easyworkflow.png" style="display: block; margin-left: auto; margin-right: auto;">
+
+EasyWorkflow for LangChain4j provides a fluent DSL for building complex agentic workflows on top of the LangChain4j Agentic framework. It removes boilerplate and makes it simple to express AI workflows in a clear, readable way.
+
+On top of clean workflow design, EasyWorkflow gives you other powerful tools:
+
+Workflow Debugger – Step inside your workflows with full visibility into context and agent execution results. Set breakpoints on key events, like agent input or output, to watch your workflow come alive in real time.
+Visual Flow Diagrams – Instantly generate flowcharts for your workflows, making it easy to debug, inspect invocation results and progress, document, and illustrate agent logic at a glance.
+With EasyWorkflow, you can define workflows that include sequences of agents, conditional branches, parallel execution, agent groups, and loops, combining flexibility with elegance.
+
+```java
+NovelCreator novelCreator = EasyWorkflow.builder(NovelCreator.class)
+  .chatModel(BASE_MODEL)
+    .agent(CreativeWriter.class)
+    .agent(AudienceEditor.class)
+    .repeat(agenticScope -> agenticScope.readState("score", 0.0) >= 0.8)
+      .agent(StyleScorer.class)
+      .breakpoint("Score: {{score}}")
+      .agent(StyleEditor.class)
+    .end()
+  .output(OutputComposers.asBean(Novel.class))
+  .build();
+
+Novel novel = novelCreator.createNovel("dragons and wizards", "infants", "fantasy");
+System.out.println(novel);
+```
+
+**Features**
+* Fluent API: A simple and intuitive DSL-style API for defining complex agentic workflows.
+* Workflow Debugger: Debug agentic workflows and examine the results of their execution.
+* Sequential Execution: Define a sequence of agents that will be executed one after another.
+* Conditional Execution: Execute agents based on a condition.
+* Parallel Execution: Execute agents in parallel and compose their outputs.
+* Agent Grouping: Group agents and supervise their execution.
+* Loops: Repeat a sequence of agents till a condition evaluates to true.
+* Logging: Simple switches to turn ON agents' input and output logging.
+* Output Composers: Lots of ready-to-use output composers.
 
 ## Java Class Extension Library
 
